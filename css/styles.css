@@ -26,3 +26,14 @@ main {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.tela {
+  position: relative;
+  left: 23px;
+  width: 275px;
+  height: 485px;
+  top: 83px;
+  background-image: url(../imagens/tela-home.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
