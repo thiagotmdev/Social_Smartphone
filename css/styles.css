@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  width: 100wh;
+  background-color: black;
+}
+
+main {
+  height: 100vh;
+  background-image: url(../imagens/fundo-madeira.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.smartphone {
+  height: 645px;
+  width: 320px;
+  background-image: url(../imagens/frame-iphone.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
